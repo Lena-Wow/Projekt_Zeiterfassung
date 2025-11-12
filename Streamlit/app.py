@@ -3,9 +3,14 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime, date, time, timedelta
 
+# Importiere das Modul (gleicher Ordner)
+import courses_module as cm
+
 st.set_page_config(page_title="Zeiterfassung", page_icon="⏱️", layout="wide")
 
-CSV_PATH = Path("time_entries.csv")
+CSV_PATH = Path(__file__).parent / "time_entries.csv"
+# Standard: lädt courses.txt im aktuellen Arbeitsverzeichnis (oder erzeugt sie)
+courses = cm.load_courses()  # -> List[str]
 
 
 # ------------------- Funktionen -------------------
@@ -80,21 +85,9 @@ wochentag = st.selectbox(
 )
 
 # Kurs & Lernart
-kursname = st.selectbox(
-    "Kursname",
-    options=[
-        "Projekt",
-        "Python",
-        "SQL",
-        "ML",
-        "Excel",
-        "EDA",
-        "ETL",
-        "PowerBI",
-        "AWS",
-        "ScrumPO",
-    ],
-)
+# kursname = st.selectbox("Kursname",options=["Projekt","Python","SQL","ML","Excel","EDA","ETL","PowerBI","AWS","ScrumPO",],)
+kursname = st.selectbox("Kursname", options=courses)
+
 lernart = st.selectbox(
     "Lernart",
     options=[

@@ -1,0 +1,11 @@
+Projekt
+Python
+SQL
+ML
+Excel
+EDA
+ETL
+PowerBI
+AWS
+ScrumPO
+BigData
