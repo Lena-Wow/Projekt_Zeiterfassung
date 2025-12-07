@@ -1,309 +1,310 @@
-Datum;Wochentag;Kursname;Lernart;Thema;Startzeit;Endzeit;Dauer (h);Thema / Inhalt;Stunden
-03.03.2025;Montag;Python;;;;;4,0;;
-04.03.2025;Dienstag;Python;;;;;8,0;;
-05.03.2025;Mittwoch;Excel;;;;;6,0;;
-06.03.2025;Donnerstag;Excel;;;;;7,0;;
-07.03.2025;Freitag;;;;;;;;
-08.03.2025;Samstag;;;;;;;;
-09.03.2025;Sonntag;;;;;;;;
-10.03.2025;Montag;Python;;;;;8,0;;
-11.03.2025;Dienstag;Python;;;;;4,0;;
-12.03.2025;Mittwoch;Python;;;;;5,0;;
-13.03.2025;Donnerstag;Excel;;;;;7,0;;
-14.03.2025;Freitag;Excel;;;;;2,0;;
-15.03.2025;Samstag;Excel;;;;;6,0;;
-16.03.2025;Sonntag;Excel;;;;;2,0;;
-17.03.2025;Montag;Python;;;;;7,0;;
-18.03.2025;Dienstag;Python;;;;;5,0;;
-19.03.2025;Mittwoch;Tableau;;;;;4,0;;
-20.03.2025;Donnerstag;Tableau;;;;;6,0;;
-21.03.2025;Freitag;Python;;;;;3,0;;
-22.03.2025;Samstag;Python;;;;;5,0;;
-23.03.2025;Sonntag;Python;;;;;4,0;;
-24.03.2025;Montag;Python;;;;;7,0;;
-25.03.2025;Dienstag;Python;;;;;7,0;;
-26.03.2025;Mittwoch;Python;;;;;5,0;;
-27.03.2025;Donnerstag;SQL;;;;;8,0;;
-28.03.2025;Freitag;;;;;;0,0;;
-29.03.2025;Samstag;SQL;;;;;7,0;;
-30.03.2025;Sonntag;SQL;;;;;3,0;;
-31.03.2025;Montag;Python;;;;;7,0;;
-01.04.2025;Dienstag;Python;;;;;6,0;;
-02.04.2025;Mittwoch;Python;;;;;7,0;;
-03.04.2025;Donnerstag;SQL;;;;;8,0;;
-04.04.2025;Freitag;;;;;;0,0;;
-05.04.2025;Samstag;;;;;;0,0;;
-06.04.2025;Sonntag;;;;;;0,0;;
-07.04.2025;Montag;Python;;;;;7,0;;
-08.04.2025;Dienstag;SQL;;;;;6,0;;
-09.04.2025;Mittwoch;SQL;;;;;6,0;;
-10.04.2025;Donnerstag;SQL;;;;;6,0;;
-11.04.2025;Freitag;Python;;;;;2,0;;
-12.04.2025;Samstag;Python;;;;;3,0;;
-13.04.2025;Sonntag;Python;;;;;3,0;;
-14.04.2025;Montag;Python;;;;;6,0;;
-15.04.2025;Dienstag;Python;;;;;5,0;;
-16.04.2025;Mittwoch;Python;;;;;3,0;;
-17.04.2025;Donnerstag;Python;;;;;7,0;;
-18.04.2025;Freitag;;;;;;0,0;;
-19.04.2025;Samstag;;;;;;0,0;;
-20.04.2025;Sonntag;Python;;;;;1,0;;
-21.04.2025;Montag;;;;;;0,0;;
-22.04.2025;Dienstag;Streamlit;;;;;4,0;;
-23.04.2025;Mittwoch;Python;;;;;3,0;;
-24.04.2025;Donnerstag;Streamlit;;;;;8,0;;
-25.04.2025;Freitag;Streamlit;;;;;4,0;;
-26.04.2025;Samstag;Streamlit;;;;;3,0;;
-27.04.2025;Sonntag;Streamlit;;;;;2,0;;
-28.04.2025;Montag;Python;;;;;4,0;;
-29.04.2025;Dienstag;Python;;;;;2,0;;
-30.04.2025;Mittwoch;Python;;;;;1,0;;
-01.05.2025;Donnerstag;Python;;;;;2,0;;
-02.05.2025;Freitag;Python;;;;;4,0;;
-03.05.2025;Samstag;;;;;;0,0;;
-04.05.2025;Sonntag;Python;;;;;2,0;;
-05.05.2025;Montag;Python;;;;;6,0;;
-06.05.2025;Dienstag;SQL;;;;;6,0;;
-07.05.2025;Mittwoch;SQL;;;;;9,0;;
-08.05.2025;Donnerstag;SQL;;;;;5,0;;
-09.05.2025;Freitag;SQL;;;;;6,0;;
-10.05.2025;Samstag;;;;;;0,0;;
-11.05.2025;Sonntag;SQL;;;;;1,0;;
-12.05.2025;Montag;Python;;;;;6,0;;
-13.05.2025;Dienstag;Python;;;;;2,0;;
-14.05.2025;Mittwoch;SQL;;;;;1,0;;
-15.05.2025;Donnerstag;SQL;;;;;2,0;;
-16.05.2025;Freitag;;;;;;0,0;;
-17.05.2025;Samstag;;;;;;0,0;;
-18.05.2025;Sonntag;Statistik;;;;;2,0;;
-19.05.2025;Montag;Statistik;;;;;4,0;;
-20.05.2025;Dienstag;Statistik;;;;;3,0;;
-21.05.2025;Mittwoch;Statistik;;;;;6,0;;
-22.05.2025;Donnerstag;Statistik;;;;;5,0;;
-23.05.2025;Freitag;Statistik;;;;;1,0;;
-24.05.2025;Samstag;;;;;;0,0;;
-25.05.2025;Sonntag;Statistik;;;;;3,0;;
-26.05.2025;Montag;Machine Learning;;;;;6,0;;
-27.05.2025;Dienstag;Machine Learning;;;;;5,0;;
-28.05.2025;Mittwoch;Machine Learning;;;;;3,0;;
-29.05.2025;Donnerstag;;;;;;0,0;;
-30.05.2025;Freitag;;;;;;0,0;;
-31.05.2025;Samstag;Machine Learning;;;;;1,0;;
-01.06.2025;Sonntag;GitHub;;;;;2,0;;
-02.06.2025;Montag;Machine Learning;;;;;6,0;;
-03.06.2025;Dienstag;Machine Learning;;;;;5,0;;
-04.06.2025;Mittwoch;GitHub;;;;;5,0;;
-05.06.2025;Donnerstag;GitHub;;;;;4,0;;
-06.06.2025;Freitag;GitHub;;;;;2,0;;
-07.06.2025;Samstag;Machine Learning;;;;;4,0;;
-08.06.2025;Sonntag;Machine Learning;;;;;4,0;;
-09.06.2025;Montag;Machine Learning;;;;;3,0;;
-10.06.2025;Dienstag;Machine Learning;;;;;4,0;;
-11.06.2025;Mittwoch;Machine Learning;;;;;3,0;;
-12.06.2025;Donnerstag;GitHub;;;;;4,0;;
-13.06.2025;Freitag;GitHub;;;;;4,0;;
-14.06.2025;Samstag;;;;;;0,0;;
-15.06.2025;Sonntag;Docker;;;;;4,0;;
-16.06.2025;Montag;Docker;;;;;4,0;;
-17.06.2025;Dienstag;Machine Learning;;;;;4,0;;
-18.06.2025;Mittwoch;Machine Learning;;;;;7,0;;
-19.06.2025;Donnerstag;Machine Learning;;;;;3,0;;
-20.06.2025;Freitag;;;;;;0,0;;
-21.06.2025;Samstag;Machine Learning;;;;;2,0;;
-22.06.2025;Sonntag;Machine Learning;;;;;3,0;;
-23.06.2025;Montag;Machine Learning;;;;;5,0;;
-24.06.2025;Dienstag;Machine Learning;;;;;4,0;;
-25.06.2025;Mittwoch;Machine Learning;;;;;4,0;;
-26.06.2025;Donnerstag;Machine Learning;;;;;1,0;;
-27.06.2025;Freitag;Machine Learning;;;;;6,0;;
-28.06.2025;Samstag;Machine Learning;;;;;1,0;;
-29.06.2025;Sonntag;Machine Learning;;;;;2,0;;
-30.06.2025;Montag;Machine Learning;;;;;3,0;;
-01.07.2025;Dienstag;Machine Learning;;;;;2,0;;
-02.07.2025;Mittwoch;Machine Learning;;;;;3,0;;
-03.07.2025;Donnerstag;Machine Learning;;;;;5,0;;
-04.07.2025;Freitag;;;;;;;;
-05.07.2025;Samstag;;;;;;;;
-06.07.2025;Sonntag;;;;;;;;
-07.07.2025;Montag;Machine Learning;;;;;6,0;;
-08.07.2025;Dienstag;Teilprojekt;;;;;7,0;;
-09.07.2025;Mittwoch;Teilprojekt;;;;;7,0;;
-10.07.2025;Donnerstag;Teilprojekt;;;;;4,0;;
-11.07.2025;Freitag;Teilprojekt;;;;;4,0;;
-12.07.2025;Samstag;Teilprojekt;;;;;1,0;;
-13.07.2025;Sonntag;Teilprojekt;;;;;2,0;;
-14.07.2025;Montag;Teilprojekt;;;;;6,0;;
-15.07.2025;Dienstag;Machine Learning;;;;;7,0;;
-16.07.2025;Mittwoch;Teilprojekt;;;;;7,0;;
-17.07.2025;Donnerstag;Teilprojekt;;;;;4,0;;
-18.07.2025;Freitag;Teilprojekt;;;;;4,0;;
-19.07.2025;Samstag;Teilprojekt;;;;;1,0;;
-20.07.2025;Sonntag;Teilprojekt;;;;;2,0;;
-21.07.2025;Montag;Teilprojekt;;;;;7,0;;
-22.07.2025;Dienstag;Teilprojekt;;;;;5,0;;
-23.07.2025;Mittwoch;Teilprojekt;;;;;6,0;;
-24.07.2025;Donnerstag;Teilprojekt;;;;;6,0;;
-25.07.2025;Freitag;Teilprojekt;;;;;6,0;;
-26.07.2025;Samstag;;;;;;0,0;;
-27.07.2025;Sonntag;;;;;;0,0;;
-28.07.2025;Montag;Teilprojekt;;;;;5,0;;
-29.07.2025;Dienstag;Teilprojekt;;;;;7,0;;
-30.07.2025;Mittwoch;Teilprojekt;;;;;11,0;;
-31.07.2025;Donnerstag;Teilprojekt;;;;;4,0;;
-01.08.2025;Freitag;Teilprojekt;;;;;5,0;;
-02.08.2025;Samstag;Teilprojekt;;;;;2,0;;
-03.08.2025;Sonntag;;;;;;0,0;;
-04.08.2025;Montag;Teilprojekt;;;;;5,0;;
-05.08.2025;Dienstag;Teilprojekt;;;;;4,0;;
-06.08.2025;Mittwoch;Streamlit;;;;;1,0;;
-07.08.2025;Donnerstag;Streamlit;;;;;1,0;;
-08.08.2025;Freitag;;;;;;0,0;;
-09.08.2025;Samstag;;;;;;0,0;;
-10.08.2025;Sonntag;;;;;;0,0;;
-11.08.2025;Montag;Streamlit;;;;;3,0;;
-12.08.2025;Dienstag;Streamlit;;;;;3,0;;
-13.08.2025;Mittwoch;NoSQL;;;;;3,0;;
-14.08.2025;Donnerstag;NoSQL;;;;;1,0;;
-15.08.2025;Freitag;NoSQL;;;;;3,0;;
-16.08.2025;Samstag;;;;;;0,0;;
-17.08.2025;Sonntag;EDA;;;;;4,0;;
-18.08.2025;Montag;EDA;;;;;5,0;;
-19.08.2025;Dienstag;EDA;;;;;3,0;;
-20.08.2025;Mittwoch;EDA;;;;;4,0;;
-21.08.2025;Donnerstag;EDA;;;;;4,0;;
-22.08.2025;Freitag;EDA;;;;;4,0;;
-23.08.2025;Samstag;EDA;;;;;4,0;;
-24.08.2025;Sonntag;;;;;;0,0;;
-25.08.2025;Montag;EDA;;;;;2,0;;
-26.08.2025;Dienstag;;;;;;0,0;;
-27.08.2025;Mittwoch;Excel;;;;;3,0;;
-28.08.2025;Donnerstag;Excel;;;;;3,0;;
-29.08.2025;Freitag;;;;;;0,0;;
-30.08.2025;Samstag;;;;;;0,0;;
-31.08.2025;Sonntag;;;;;;0,0;;
-01.09.2025;Montag;Excel;;;;;3,0;;
-02.09.2025;Dienstag;;;;;;;;
-03.09.2025;Mittwoch;;;;;;;;
-04.09.2025;Donnerstag;;;;;;;;
-05.09.2025;Freitag;;;;;;;;
-06.09.2025;Samstag;;;;;;;;
-07.09.2025;Sonntag;;;;;;;;
-08.09.2025;Montag;;;;;;;;
-09.09.2025;Dienstag;;;;;;;;
-10.09.2025;Mittwoch;;;;;;;;
-11.09.2025;Donnerstag;;;;;;;;
-12.09.2025;Freitag;;;;;;;;
-13.09.2025;Samstag;;;;;;;;
-14.09.2025;Sonntag;;;;;;;;
-15.09.2025;Montag;;;;;;;;
-16.09.2025;Dienstag;EDA;;;;;2,0;;
-17.09.2025;Mittwoch;EDA;;;;;2,0;;
-18.09.2025;Donnerstag;;;;;;;;
-19.09.2025;Freitag;;;;;;;;
-20.09.2025;Samstag;;;;;;;;
-21.09.2025;Sonntag;;;;;;;;
-22.09.2025;Montag;EDA;;;;;2,0;;
-23.09.2025;Dienstag;EDA;;;;;2,0;;
-24.09.2025;Mittwoch;;;;;;;;
-25.09.2025;Donnerstag;;;;;;;;
-26.09.2025;Freitag;;;;;;;;
-27.09.2025;Samstag;;;;;;;;
-28.09.2025;Sonntag;;;;;;;;
-29.09.2025;Montag;;;;;;;;
-30.09.2025;Dienstag;;;;;;;;
-01.10.2025;Mittwoch;EXCEL;Selbststudium;;10:00;12:00;2,0;Hausaufgaben;
-01.10.2025;Mittwoch;EDA;Live-Call-Vorlesung;;13:15;14:50;1,58;Live-Teilnehmen;
-02.10.2025;Donnerstag;EXCEL;Selbststudium;;09:00;12:00;3,0;Hausaufgaben;
-03.10.2025;Freitag;EDA;Theorie (Video);;09:00;14:00;5,0;H ren/Sehen;
-04.10.2025;Samstag;EDA;Theorie (Video);;09:00;13:00;4,0;H ren/Sehen;
-05.10.2025;Sonntag;EDA;Selbststudium;;09:00;15:00;6,0;Hausaufgaben;
-06.10.2025;Montag;EXCEL;Live-Call-Hausaufgaben;;10:00;11:00;1,0;Live-Teilnehmen;
-07.10.2025;Dienstag;ScrumPO;Selbststudium;;14:00;19:00;5,0;Pr fungvorbereitung;
-07.10.2025;Dienstag;EXCEL;Live-Call-Vorlesung;;10:15;11:45;1,5;Live-Teilnehmen;
-08.10.2025;MIttwoch;EDA;Live-Call-Vorlesung;;13:15;14:50;1,58;Live-Teilnehmen;
-08.10.2025;Mittwoch;ScrumPO;Selbststudium;;16:00;19:00;3,0;Pr fungvorbereitung;
-09.10.2025;Donnerstag;PROJEKT;Selbststudium;;08:30;10:45;2,25;Zeiterfassung;
-09.10.2025;Donnerstag;ScrumPO;Selbststudium;;16:45;18:15;1,5;Pr fungvorbereitung;
-10.10.2025;Freitag;PROJEKT;Selbststudium;;12:30;15:30;3,0;Zeiterfassung;
-10.10.2025;Freitag;ScrumPO;Selbststudium;;16:45;18:00;1,25;Pr fungvorbereitung;
-11.10.2025;Samstag;ScrumPO;Selbststudium;;13:00;14:30;1,5;Pr fungvorbereitung;
-12.10.2025;Sonntag;ScrumPO;Selbststudium;;09:30;11:00;1,5;Pr fungvorbereitung;
-12.10.2025;Sonntag;PROJEKT;Selbststudium;;11:00;13:30;2,5;Zeiterfassung;
-12.10.2025;Sontag;ScrumPO;Selbststudium;;16:30;18:00;1,5;Pr fungsvorbereitung;
-13.10.2025;Montag;ETL;Theorie (Video);;08:40;09:00;0,33;H ren/Sehen;
-13.10.2025;Montag;EXCEL;Live-Call-Hausaufgaben;;09:15;10:15;1,0;Live-Teilnehmen;
-13.10.2025;Montag;EDA;Live-Call-Hausaufgaben;;10:45;12:15;1,5;Live-Teilnehmen;
-13.10.2025;Montag;ScrumPO;Selbststudium;;14:00;15:15;1,25;Pr fungsvorbereitung;
-13.10.2025;Montag;ETL;Theorie (Video);;16:30;18:15;1,75;H ren/Sehen;
-14.10.2025;Dienstag;ETL;Theorie (Video);;09:00;14:30;5,5;H ren/Sehen;
-14.10.2025;Dienstag;ScrumPO;Selbststudium;;17:00;18:00;1,0;Pr fungsvorbereitung;
-15.10.2025;Mittwoch;ETL;Live-Call-Vorlesung;;10:15;12:00;1,75;Live-Teilnehmen;
-15.10.2025;Mittwoch;ScrumPO;Selbststudium;;15:00;16:00;1,0;Pr fungsvorbereitung;
-16.10.2025;Donnerstag;ScrumPO;Selbststudium;;10:00;11:20;1,33;Pr fungsvorbereitung;
-19.10.2025;Sonntag;ScrumPO;Selbststudium;;10:00;11:00;1,0;Pr fungsvorbereitung;
-19.10.2025;Sonntag;ETL;Theorie (Video);;11:00;16:15;5,25;H ren/Sehen;
-20.10.2025;Montag;ScrumPO;Selbststudium;;10:00;11:00;1,0;Pr fungsvorbereitung;
-21.10.2025;Dienstag;ScrumPO;Selbststudium;;10:00;13:30;3,5;Pr fungsvorbereitung;
-22.10.2025;Mittwoch;ETL;Live-Call-Vorlesung;;10:15;12:00;1,75;Live-Teilnehmen;
-22.10.2025;Mittwoch;ETL;Theorie (Video);;13:00;14:00;1,0;H ren/Sehen;
-22.10.2025;Mittwoch;ETL;Theorie (Video);;15:00;16:30;1,5;H ren/Sehen;
-23.10.2025;Donnerstag;ScrumPO;Selbststudium;;09:00;11:00;2,0;Pr fungsvorbereitung;
-23.10.2025;Donnerstag;ETL;Theorie (Video);;11:30;13:30;2,0;H ren/Sehen;
-24.10.2025;Freitag;ScrumPO;Theorie (Video);;14:00;17:00;3,0;H ren/Sehen;
-25.10.2025;Samstag;ScrumPO;Selbststudium;;10:00;11:30;1,5;Pr fung;
-27.10.2025;Montag;PowerBI;Theorie (Video);;09:30;14:00;4,5;H ren/Sehen;
-27.10.2025;Montag;PowerBI;Theorie (Video);;15:00;17:00;2,0;H ren/Sehen;
-28.10.2025;Dienstag;PowerBI;Theorie (Video);;09:00;12:30;3,5;H ren/Sehen;
-28.10.2025;Dienstag;PowerBI;Live-Call-Vorlesung;;13:15;15:00;1,75;Live-Teilnehmen;
-29.10.2025;Mittwoch;PowerBI;Theorie (Video);;09:00;10:00;1,0;H ren/Sehen;
-29.10.2025;Mittwoch;ETL;Live-Call-Vorlesung;;10:15;11:45;1,5;Live-Teilnehmen;
-29.10.2025;Mittwoch;PowerBI;Theorie (Video);;12:00;14:00;2,0;H ren/Sehen;
-30.10.2025;Donnerstag;PowerBI;Selbststudium;;11:30;14:00;2,5;Hausaufgaben;
-30.10.2025;Donnerstag;PowerBI;Selbststudium;;16:30;21:00;4,5;Hausaufgaben;
-01.11.2025;Samstag;PowerBI;Selbststudium;;11:00;16:00;5,0;Hausaufgaben;
-02.11.2025;Sonntag;PowerBI;Selbststudium;;10:00;12:00;2,0;Projekt Olympia;
-02.11.2025;Sonntag;PROJEKT;Selbststudium;;12:00;13:30;1,5;Projekt Zeiterfassung;
-03.11.2025;Montag;PowerBI;Theorie (Video);;08:30;09:00;0,5;H ren/sehen;
-03.11.2025;Montag;PowerBI;Live-Call-Hausaufgaben;;10:45;12:10;1,42;Live-Teilnehmen;
-03.11.2025;Montag;PowerBI;Selbststudium;;21:00;22:00;1,0;Lernen;
-04.11.2025;Dienstag;PowerBI;Theorie (Video);;09:30;12:45;3,25;H ren/sehen;
-04.11.2025;Dienstag;PowerBI;Live-Call-Vorlesung;;13:45;15:20;1,58;Live-Teilnehmen;
-05.11.2025;Mittwoch;ETL;Theorie (Video);;09:15;10:15;1,0;H ren/sehen;
-05.11.2025;Mittwoch;ETL;Live-Call-Vorlesung;;10:15;11:45;1,5;Live-Teilnehmen;
-05.11.2025;Mittwoch;ETL;Theorie (Video);;12:00;13:00;1,0;H ren/sehen;
-05.11.2025;Mittwoch;PowerBI;Theorie (Video);;17:00;20:15;3,25;H ren/sehen;
-06.11.2025;Donnerstag;PowerBI;Selbststudium;;09:00;12:00;3,0;Hausaufgaben;
-07.11.2025;Freitag;organisation;Live-Call-Vorlesung;;13:00;14:00;1,0;Live-Teilnehmen;
-07.11.2025;Freitag;PowerBI;Selbststudium;;14:30;18:30;4,0;Hausaufgaben;
-08.11.2025;Samstag;PowerBI;Selbststudium;;09:00;14:30;5,5;Hausaufgaben;
-09.11.2025;Sonntag;PowerBI;Selbststudium;;09:00;12:30;3,5;Hausaufgaben;
-10.11.2025;Montag;AWS;Theorie (Video);;08:30;09:30;1,0;H ren/sehen;
-10.11.2025;Montag;PowerBI;Live-Call-Hausaufgaben;;10:45;12:00;1,25;Live-Teilnehmen;
-11.11.2025;Dienstag;AWS;Live-Call-Vorlesung;;10:15;11:45;1,5;Live-Teilnehmen;
-11.11.2025;Dienstag;AWS;Theorie (Video);;12:45;14:00;1,25;H ren/sehen;
-11.11.2025;Dienstag;AWS;Selbststudium;;20:00;20:30;0,5;Hausaufgaben;
-12.11.2025;Mittwoch;AWS;Theorie (Video);;09:00;12:00;3,0;H ren/sehen;
-12.11.2025;Mittwoch;AWS;Selbststudium;;16:30;18:00;1,5;Hausaufgaben;
-13.11.2025;Donnerstag;PROJEKT;Selbststudium;;09:30;10:00;0,5;Projekt Zeiterfassung;
-13.11.2025;Donnerstag;AWS;Theorie (Video);;10:00;11:00;1,0;H ren/sehen;
-13.11.2025;Donnerstag;AWS;Selbststudium;;11:00;14:00;3,0;Hausaufgaben;
-13.11.2025;Donnerstag;AWS;Theorie (Video);;16:30;18:00;1,5;H ren/sehen;
-14.11.2025;Freitag;AWS;Theorie (Video);;11:00;11:30;0,5;H ren/sehen;
-15.11.2025;Samstag;AWS;Theorie (Video);;11:30;14:00;2,5;Hausaufgaben;
-16.11.2025;Sontag;AWS;Theorie (Video);;17:00;18:30;1,5;Hausaufgaben;
-17.11.2025;Montag;AWS;Theorie (Video);;17:00;17:30;0,5;Hausaufgaben;
-18.11.2025;Montag;AWS;Live-Call-Vorlesung;;10:15;11:45;1,5;Live-Teilnehmen;
-18.11.2025;Montag;AWS;Theorie (Video);;16:30;18:00;1,5;H ren/sehen;
-19.11.2025;Dienstag;AWS;Theorie (Video);;10:30;14:00;3,5;H ren/sehen;
-20.11.2025;Mittwoch;AWS;Theorie (Video);;12:00;15:00;3,0;H ren/sehen;
-20.11.2025;Mittwoch;AWS;Theorie (Video);;16:00;17:00;1,0;H ren/sehen;
-24.11.2025;Montag;PROJEKT;Selbststudium;;08:30;09:00;0,5;Projekt Zeiterfassung;
-25.11.2025;Dienstag;AWS;Live-Call-Vorlesung;;10:15;11:45;1,5;H ren/sehen;
-05.12.2025;Freitag;Projekt;Selbststudium;python;18:30;21:30;3,0;;
-02.12.2025;Dienstag;AWS;Live-Call-Vorlesung;;10:15;11:45;1,5;;
-02.12.2025;Dienstag;Projekt;Selbststudium;;13:00;15:15;2,25;;
-03.12.2025;Mittwoch;Projekt;Selbststudium;;09:30;12:30;3,0;;
-04.12.2025;Donnerstag;Projekt;Selbststudium;;11:00;14:00;3,0;;
-05.12.2025;Freitag;Projekt;Selbststudium;;18:30;21:30;3,0;;
-06.12.2025;Samstag;Projekt;Selbststudium;;12:00;12:15;0,25;;
-06.12.2025;Samstag;Projekt;Selbststudium;;12:15;13:00;0,75;;
+Datum;Wochentag;Kursname;Lernart;Startzeit;Endzeit;Dauer (h)
+03.03.2025;Montag;Python;;;;4,0
+04.03.2025;Dienstag;Python;;;;8,0
+05.03.2025;Mittwoch;Excel;;;;6,0
+06.03.2025;Donnerstag;Excel;;;;7,0
+07.03.2025;Freitag;;;;;
+08.03.2025;Samstag;;;;;
+09.03.2025;Sonntag;;;;;
+10.03.2025;Montag;Python;;;;8,0
+11.03.2025;Dienstag;Python;;;;4,0
+12.03.2025;Mittwoch;Python;;;;5,0
+13.03.2025;Donnerstag;Excel;;;;7,0
+14.03.2025;Freitag;Excel;;;;2,0
+15.03.2025;Samstag;Excel;;;;6,0
+16.03.2025;Sonntag;Excel;;;;2,0
+17.03.2025;Montag;Python;;;;7,0
+18.03.2025;Dienstag;Python;;;;5,0
+19.03.2025;Mittwoch;Tableau;;;;4,0
+20.03.2025;Donnerstag;Tableau;;;;6,0
+21.03.2025;Freitag;Python;;;;3,0
+22.03.2025;Samstag;Python;;;;5,0
+23.03.2025;Sonntag;Python;;;;4,0
+24.03.2025;Montag;Python;;;;7,0
+25.03.2025;Dienstag;Python;;;;7,0
+26.03.2025;Mittwoch;Python;;;;5,0
+27.03.2025;Donnerstag;SQL;;;;8,0
+28.03.2025;Freitag;;;;;0,0
+29.03.2025;Samstag;SQL;;;;7,0
+30.03.2025;Sonntag;SQL;;;;3,0
+31.03.2025;Montag;Python;;;;7,0
+01.04.2025;Dienstag;Python;;;;6,0
+02.04.2025;Mittwoch;Python;;;;7,0
+03.04.2025;Donnerstag;SQL;;;;8,0
+04.04.2025;Freitag;;;;;0,0
+05.04.2025;Samstag;;;;;0,0
+06.04.2025;Sonntag;;;;;0,0
+07.04.2025;Montag;Python;;;;7,0
+08.04.2025;Dienstag;SQL;;;;6,0
+09.04.2025;Mittwoch;SQL;;;;6,0
+10.04.2025;Donnerstag;SQL;;;;6,0
+11.04.2025;Freitag;Python;;;;2,0
+12.04.2025;Samstag;Python;;;;3,0
+13.04.2025;Sonntag;Python;;;;3,0
+14.04.2025;Montag;Python;;;;6,0
+15.04.2025;Dienstag;Python;;;;5,0
+16.04.2025;Mittwoch;Python;;;;3,0
+17.04.2025;Donnerstag;Python;;;;7,0
+18.04.2025;Freitag;;;;;0,0
+19.04.2025;Samstag;;;;;0,0
+20.04.2025;Sonntag;Python;;;;1,0
+21.04.2025;Montag;;;;;0,0
+22.04.2025;Dienstag;Streamlit;;;;4,0
+23.04.2025;Mittwoch;Python;;;;3,0
+24.04.2025;Donnerstag;Streamlit;;;;8,0
+25.04.2025;Freitag;Streamlit;;;;4,0
+26.04.2025;Samstag;Streamlit;;;;3,0
+27.04.2025;Sonntag;Streamlit;;;;2,0
+28.04.2025;Montag;Python;;;;4,0
+29.04.2025;Dienstag;Python;;;;2,0
+30.04.2025;Mittwoch;Python;;;;1,0
+01.05.2025;Donnerstag;Python;;;;2,0
+02.05.2025;Freitag;Python;;;;4,0
+03.05.2025;Samstag;;;;;0,0
+04.05.2025;Sonntag;Python;;;;2,0
+05.05.2025;Montag;Python;;;;6,0
+06.05.2025;Dienstag;SQL;;;;6,0
+07.05.2025;Mittwoch;SQL;;;;9,0
+08.05.2025;Donnerstag;SQL;;;;5,0
+09.05.2025;Freitag;SQL;;;;6,0
+10.05.2025;Samstag;;;;;0,0
+11.05.2025;Sonntag;SQL;;;;1,0
+12.05.2025;Montag;Python;;;;6,0
+13.05.2025;Dienstag;Python;;;;2,0
+14.05.2025;Mittwoch;SQL;;;;1,0
+15.05.2025;Donnerstag;SQL;;;;2,0
+16.05.2025;Freitag;;;;;0,0
+17.05.2025;Samstag;;;;;0,0
+18.05.2025;Sonntag;Statistik;;;;2,0
+19.05.2025;Montag;Statistik;;;;4,0
+20.05.2025;Dienstag;Statistik;;;;3,0
+21.05.2025;Mittwoch;Statistik;;;;6,0
+22.05.2025;Donnerstag;Statistik;;;;5,0
+23.05.2025;Freitag;Statistik;;;;1,0
+24.05.2025;Samstag;;;;;0,0
+25.05.2025;Sonntag;Statistik;;;;3,0
+26.05.2025;Montag;Machine Learning;;;;6,0
+27.05.2025;Dienstag;Machine Learning;;;;5,0
+28.05.2025;Mittwoch;Machine Learning;;;;3,0
+29.05.2025;Donnerstag;;;;;0,0
+30.05.2025;Freitag;;;;;0,0
+31.05.2025;Samstag;Machine Learning;;;;1,0
+01.06.2025;Sonntag;GitHub;;;;2,0
+02.06.2025;Montag;Machine Learning;;;;6,0
+03.06.2025;Dienstag;Machine Learning;;;;5,0
+04.06.2025;Mittwoch;GitHub;;;;5,0
+05.06.2025;Donnerstag;GitHub;;;;4,0
+06.06.2025;Freitag;GitHub;;;;2,0
+07.06.2025;Samstag;Machine Learning;;;;4,0
+08.06.2025;Sonntag;Machine Learning;;;;4,0
+09.06.2025;Montag;Machine Learning;;;;3,0
+10.06.2025;Dienstag;Machine Learning;;;;4,0
+11.06.2025;Mittwoch;Machine Learning;;;;3,0
+12.06.2025;Donnerstag;GitHub;;;;4,0
+13.06.2025;Freitag;GitHub;;;;4,0
+14.06.2025;Samstag;;;;;0,0
+15.06.2025;Sonntag;Docker;;;;4,0
+16.06.2025;Montag;Docker;;;;4,0
+17.06.2025;Dienstag;Machine Learning;;;;4,0
+18.06.2025;Mittwoch;Machine Learning;;;;7,0
+19.06.2025;Donnerstag;Machine Learning;;;;3,0
+20.06.2025;Freitag;;;;;0,0
+21.06.2025;Samstag;Machine Learning;;;;2,0
+22.06.2025;Sonntag;Machine Learning;;;;3,0
+23.06.2025;Montag;Machine Learning;;;;5,0
+24.06.2025;Dienstag;Machine Learning;;;;4,0
+25.06.2025;Mittwoch;Machine Learning;;;;4,0
+26.06.2025;Donnerstag;Machine Learning;;;;1,0
+27.06.2025;Freitag;Machine Learning;;;;6,0
+28.06.2025;Samstag;Machine Learning;;;;1,0
+29.06.2025;Sonntag;Machine Learning;;;;2,0
+30.06.2025;Montag;Machine Learning;;;;3,0
+01.07.2025;Dienstag;Machine Learning;;;;2,0
+02.07.2025;Mittwoch;Machine Learning;;;;3,0
+03.07.2025;Donnerstag;Machine Learning;;;;5,0
+04.07.2025;Freitag;;;;;
+05.07.2025;Samstag;;;;;
+06.07.2025;Sonntag;;;;;
+07.07.2025;Montag;Machine Learning;;;;6,0
+08.07.2025;Dienstag;Teilprojekt;;;;7,0
+09.07.2025;Mittwoch;Teilprojekt;;;;7,0
+10.07.2025;Donnerstag;Teilprojekt;;;;4,0
+11.07.2025;Freitag;Teilprojekt;;;;4,0
+12.07.2025;Samstag;Teilprojekt;;;;1,0
+13.07.2025;Sonntag;Teilprojekt;;;;2,0
+14.07.2025;Montag;Teilprojekt;;;;6,0
+15.07.2025;Dienstag;Machine Learning;;;;7,0
+16.07.2025;Mittwoch;Teilprojekt;;;;7,0
+17.07.2025;Donnerstag;Teilprojekt;;;;4,0
+18.07.2025;Freitag;Teilprojekt;;;;4,0
+19.07.2025;Samstag;Teilprojekt;;;;1,0
+20.07.2025;Sonntag;Teilprojekt;;;;2,0
+21.07.2025;Montag;Teilprojekt;;;;7,0
+22.07.2025;Dienstag;Teilprojekt;;;;5,0
+23.07.2025;Mittwoch;Teilprojekt;;;;6,0
+24.07.2025;Donnerstag;Teilprojekt;;;;6,0
+25.07.2025;Freitag;Teilprojekt;;;;6,0
+26.07.2025;Samstag;;;;;0,0
+27.07.2025;Sonntag;;;;;0,0
+28.07.2025;Montag;Teilprojekt;;;;5,0
+29.07.2025;Dienstag;Teilprojekt;;;;7,0
+30.07.2025;Mittwoch;Teilprojekt;;;;11,0
+31.07.2025;Donnerstag;Teilprojekt;;;;4,0
+01.08.2025;Freitag;Teilprojekt;;;;5,0
+02.08.2025;Samstag;Teilprojekt;;;;2,0
+03.08.2025;Sonntag;;;;;0,0
+04.08.2025;Montag;Teilprojekt;;;;5,0
+05.08.2025;Dienstag;Teilprojekt;;;;4,0
+06.08.2025;Mittwoch;Streamlit;;;;1,0
+07.08.2025;Donnerstag;Streamlit;;;;1,0
+08.08.2025;Freitag;;;;;0,0
+09.08.2025;Samstag;;;;;0,0
+10.08.2025;Sonntag;;;;;0,0
+11.08.2025;Montag;Streamlit;;;;3,0
+12.08.2025;Dienstag;Streamlit;;;;3,0
+13.08.2025;Mittwoch;NoSQL;;;;3,0
+14.08.2025;Donnerstag;NoSQL;;;;1,0
+15.08.2025;Freitag;NoSQL;;;;3,0
+16.08.2025;Samstag;;;;;0,0
+17.08.2025;Sonntag;EDA;;;;4,0
+18.08.2025;Montag;EDA;;;;5,0
+19.08.2025;Dienstag;EDA;;;;3,0
+20.08.2025;Mittwoch;EDA;;;;4,0
+21.08.2025;Donnerstag;EDA;;;;4,0
+22.08.2025;Freitag;EDA;;;;4,0
+23.08.2025;Samstag;EDA;;;;4,0
+24.08.2025;Sonntag;;;;;0,0
+25.08.2025;Montag;EDA;;;;2,0
+26.08.2025;Dienstag;;;;;0,0
+27.08.2025;Mittwoch;Excel;;;;3,0
+28.08.2025;Donnerstag;Excel;;;;3,0
+29.08.2025;Freitag;;;;;0,0
+30.08.2025;Samstag;;;;;0,0
+31.08.2025;Sonntag;;;;;0,0
+01.09.2025;Montag;Excel;;;;3,0
+02.09.2025;Dienstag;;;;;
+03.09.2025;Mittwoch;;;;;
+04.09.2025;Donnerstag;;;;;
+05.09.2025;Freitag;;;;;
+06.09.2025;Samstag;;;;;
+07.09.2025;Sonntag;;;;;
+08.09.2025;Montag;;;;;
+09.09.2025;Dienstag;;;;;
+10.09.2025;Mittwoch;;;;;
+11.09.2025;Donnerstag;;;;;
+12.09.2025;Freitag;;;;;
+13.09.2025;Samstag;;;;;
+14.09.2025;Sonntag;;;;;
+15.09.2025;Montag;;;;;
+16.09.2025;Dienstag;EDA;;;;2,0
+17.09.2025;Mittwoch;EDA;;;;2,0
+18.09.2025;Donnerstag;;;;;
+19.09.2025;Freitag;;;;;
+20.09.2025;Samstag;;;;;
+21.09.2025;Sonntag;;;;;
+22.09.2025;Montag;EDA;;;;2,0
+23.09.2025;Dienstag;EDA;;;;2,0
+24.09.2025;Mittwoch;;;;;
+25.09.2025;Donnerstag;;;;;
+26.09.2025;Freitag;;;;;
+27.09.2025;Samstag;;;;;
+28.09.2025;Sonntag;;;;;
+29.09.2025;Montag;;;;;
+30.09.2025;Dienstag;;;;;
+01.10.2025;Mittwoch;EXCEL;Selbststudium;10:00;12:00;2,0
+01.10.2025;Mittwoch;EDA;Live-Call-Vorlesung;13:15;14:50;1,58
+02.10.2025;Donnerstag;EXCEL;Selbststudium;09:00;12:00;3,0
+03.10.2025;Freitag;EDA;Theorie (Video);09:00;14:00;5,0
+04.10.2025;Samstag;EDA;Theorie (Video);09:00;13:00;4,0
+05.10.2025;Sonntag;EDA;Selbststudium;09:00;15:00;6,0
+06.10.2025;Montag;EXCEL;Live-Call-Hausaufgaben;10:00;11:00;1,0
+07.10.2025;Dienstag;ScrumPO;Selbststudium;14:00;19:00;5,0
+07.10.2025;Dienstag;EXCEL;Live-Call-Vorlesung;10:15;11:45;1,5
+08.10.2025;MIttwoch;EDA;Live-Call-Vorlesung;13:15;14:50;1,58
+08.10.2025;Mittwoch;ScrumPO;Selbststudium;16:00;19:00;3,0
+09.10.2025;Donnerstag;PROJEKT;Selbststudium;08:30;10:45;2,25
+09.10.2025;Donnerstag;ScrumPO;Selbststudium;16:45;18:15;1,5
+10.10.2025;Freitag;PROJEKT;Selbststudium;12:30;15:30;3,0
+10.10.2025;Freitag;ScrumPO;Selbststudium;16:45;18:00;1,25
+11.10.2025;Samstag;ScrumPO;Selbststudium;13:00;14:30;1,5
+12.10.2025;Sonntag;ScrumPO;Selbststudium;09:30;11:00;1,5
+12.10.2025;Sonntag;PROJEKT;Selbststudium;11:00;13:30;2,5
+12.10.2025;Sontag;ScrumPO;Selbststudium;16:30;18:00;1,5
+13.10.2025;Montag;ETL;Theorie (Video);08:40;09:00;0,33
+13.10.2025;Montag;EXCEL;Live-Call-Hausaufgaben;09:15;10:15;1,0
+13.10.2025;Montag;EDA;Live-Call-Hausaufgaben;10:45;12:15;1,5
+13.10.2025;Montag;ScrumPO;Selbststudium;14:00;15:15;1,25
+13.10.2025;Montag;ETL;Theorie (Video);16:30;18:15;1,75
+14.10.2025;Dienstag;ETL;Theorie (Video);09:00;14:30;5,5
+14.10.2025;Dienstag;ScrumPO;Selbststudium;17:00;18:00;1,0
+15.10.2025;Mittwoch;ETL;Live-Call-Vorlesung;10:15;12:00;1,75
+15.10.2025;Mittwoch;ScrumPO;Selbststudium;15:00;16:00;1,0
+16.10.2025;Donnerstag;ScrumPO;Selbststudium;10:00;11:20;1,33
+19.10.2025;Sonntag;ScrumPO;Selbststudium;10:00;11:00;1,0
+19.10.2025;Sonntag;ETL;Theorie (Video);11:00;16:15;5,25
+20.10.2025;Montag;ScrumPO;Selbststudium;10:00;11:00;1,0
+21.10.2025;Dienstag;ScrumPO;Selbststudium;10:00;13:30;3,5
+22.10.2025;Mittwoch;ETL;Live-Call-Vorlesung;10:15;12:00;1,75
+22.10.2025;Mittwoch;ETL;Theorie (Video);13:00;14:00;1,0
+22.10.2025;Mittwoch;ETL;Theorie (Video);15:00;16:30;1,5
+23.10.2025;Donnerstag;ScrumPO;Selbststudium;09:00;11:00;2,0
+23.10.2025;Donnerstag;ETL;Theorie (Video);11:30;13:30;2,0
+24.10.2025;Freitag;ScrumPO;Theorie (Video);14:00;17:00;3,0
+25.10.2025;Samstag;ScrumPO;Selbststudium;10:00;11:30;1,5
+27.10.2025;Montag;PowerBI;Theorie (Video);09:30;14:00;4,5
+27.10.2025;Montag;PowerBI;Theorie (Video);15:00;17:00;2,0
+28.10.2025;Dienstag;PowerBI;Theorie (Video);09:00;12:30;3,5
+28.10.2025;Dienstag;PowerBI;Live-Call-Vorlesung;13:15;15:00;1,75
+29.10.2025;Mittwoch;PowerBI;Theorie (Video);09:00;10:00;1,0
+29.10.2025;Mittwoch;ETL;Live-Call-Vorlesung;10:15;11:45;1,5
+29.10.2025;Mittwoch;PowerBI;Theorie (Video);12:00;14:00;2,0
+30.10.2025;Donnerstag;PowerBI;Selbststudium;11:30;14:00;2,5
+30.10.2025;Donnerstag;PowerBI;Selbststudium;16:30;21:00;4,5
+01.11.2025;Samstag;PowerBI;Selbststudium;11:00;16:00;5,0
+02.11.2025;Sonntag;PowerBI;Selbststudium;10:00;12:00;2,0
+02.11.2025;Sonntag;PROJEKT;Selbststudium;12:00;13:30;1,5
+03.11.2025;Montag;PowerBI;Theorie (Video);08:30;09:00;0,5
+03.11.2025;Montag;PowerBI;Live-Call-Hausaufgaben;10:45;12:10;1,42
+03.11.2025;Montag;PowerBI;Selbststudium;21:00;22:00;1,0
+04.11.2025;Dienstag;PowerBI;Theorie (Video);09:30;12:45;3,25
+04.11.2025;Dienstag;PowerBI;Live-Call-Vorlesung;13:45;15:20;1,58
+05.11.2025;Mittwoch;ETL;Theorie (Video);09:15;10:15;1,0
+05.11.2025;Mittwoch;ETL;Live-Call-Vorlesung;10:15;11:45;1,5
+05.11.2025;Mittwoch;ETL;Theorie (Video);12:00;13:00;1,0
+05.11.2025;Mittwoch;PowerBI;Theorie (Video);17:00;20:15;3,25
+06.11.2025;Donnerstag;PowerBI;Selbststudium;09:00;12:00;3,0
+07.11.2025;Freitag;organisation;Live-Call-Vorlesung;13:00;14:00;1,0
+07.11.2025;Freitag;PowerBI;Selbststudium;14:30;18:30;4,0
+08.11.2025;Samstag;PowerBI;Selbststudium;09:00;14:30;5,5
+09.11.2025;Sonntag;PowerBI;Selbststudium;09:00;12:30;3,5
+10.11.2025;Montag;AWS;Theorie (Video);08:30;09:30;1,0
+10.11.2025;Montag;PowerBI;Live-Call-Hausaufgaben;10:45;12:00;1,25
+11.11.2025;Dienstag;AWS;Live-Call-Vorlesung;10:15;11:45;1,5
+11.11.2025;Dienstag;AWS;Theorie (Video);12:45;14:00;1,25
+11.11.2025;Dienstag;AWS;Selbststudium;20:00;20:30;0,5
+12.11.2025;Mittwoch;AWS;Theorie (Video);09:00;12:00;3,0
+12.11.2025;Mittwoch;AWS;Selbststudium;16:30;18:00;1,5
+13.11.2025;Donnerstag;PROJEKT;Selbststudium;09:30;10:00;0,5
+13.11.2025;Donnerstag;AWS;Theorie (Video);10:00;11:00;1,0
+13.11.2025;Donnerstag;AWS;Selbststudium;11:00;14:00;3,0
+13.11.2025;Donnerstag;AWS;Theorie (Video);16:30;18:00;1,5
+14.11.2025;Freitag;AWS;Theorie (Video);11:00;11:30;0,5
+15.11.2025;Samstag;AWS;Theorie (Video);11:30;14:00;2,5
+16.11.2025;Sontag;AWS;Theorie (Video);17:00;18:30;1,5
+17.11.2025;Montag;AWS;Theorie (Video);17:00;17:30;0,5
+18.11.2025;Montag;AWS;Live-Call-Vorlesung;10:15;11:45;1,5
+18.11.2025;Montag;AWS;Theorie (Video);16:30;18:00;1,5
+19.11.2025;Dienstag;AWS;Theorie (Video);10:30;14:00;3,5
+20.11.2025;Mittwoch;AWS;Theorie (Video);12:00;15:00;3,0
+20.11.2025;Mittwoch;AWS;Theorie (Video);16:00;17:00;1,0
+24.11.2025;Montag;PROJEKT;Selbststudium;08:30;09:00;0,5
+25.11.2025;Dienstag;AWS;Live-Call-Vorlesung;10:15;11:45;1,5
+05.12.2025;Freitag;Projekt;Selbststudium;18:30;21:30;3,0
+02.12.2025;Dienstag;AWS;Live-Call-Vorlesung;10:15;11:45;1,5
+02.12.2025;Dienstag;Projekt;Selbststudium;13:00;15:15;2,25
+03.12.2025;Mittwoch;Projekt;Selbststudium;09:30;12:30;3,0
+04.12.2025;Donnerstag;Projekt;Selbststudium;11:00;14:00;3,0
+05.12.2025;Freitag;Projekt;Selbststudium;18:30;21:30;3,0
+06.12.2025;Samstag;Projekt;Selbststudium;12:00;12:15;0,25
+06.12.2025;Samstag;Projekt;Selbststudium;12:15;13:00;0,75
+07.12.2025;Sonntag;Projekt;Selbststudium;18:30;21:45;3,25
